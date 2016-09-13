@@ -1,0 +1,12 @@
+# Shell
+alias sudo="please"
+alias edit="atom"
+
+# Git
+alias goops="git reset --hard HEAD"
+
+# Bower
+alias okbower="rm -rf bower_components && bower cache clean && bower install"
+
+# Easy Server
+alias okgo="python -m SimpleHTTPServer"
